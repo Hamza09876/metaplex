@@ -1,0 +1,58 @@
+{
+    "name": "Doge #0",
+    "symbol": "",
+    "description": "a cute doge",
+    "seller_fee_basis_points": 500,
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "amount",
+            "value": 4
+        },
+        {
+            "trait_type": "skin",
+            "value": "basic"
+        },
+        {
+            "trait_type": "mood",
+            "value": "basic"
+        },
+        {
+            "trait_type": "attribute",
+            "value": "Backpack"
+        },
+        {
+            "trait_type": "attribute",
+            "value": "Ski goggles"
+        },
+        {
+            "trait_type": "attribute",
+            "value": "Tennis headband"
+        },
+        {
+            "trait_type": "attribute",
+            "value": "Wild beard"
+        }
+    ],
+    "collection": {
+        "name": "Collection Name",
+        "family": ""
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 1,
+        "creators": [
+            {
+                "address": "CoGobJp3DkjPYT35xKBLiJNDbNoBWjNjpWD6Do1ftfnE",
+                "share": 100
+            }
+        ]
+    },
+    "image": "0.png"
+}

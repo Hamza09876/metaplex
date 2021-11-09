@@ -1,0 +1,10 @@
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+lazy vicious raccoon obtain south rival tourist canvas exotic devote crawl seven
+pubkey: CoGobJp3DkjPYT35xKBLiJNDbNoBWjNjpWD6Do1ftfnE
+candy machine with publickey: 2oGWr9L2iJkNBPKKL5h4uXsa3hgrqHPDR5XcLHzBs2DZ
+{"program":{"uuid":"2oGWr9","config":"2oGWr9L2iJkNBPKKL5h4uXsa3hgrqHPDR5XcLHzBs2DZ"},"items":{"0":{"link":"https://arweave.net/gTVuY4LokCXPjRG3u_I1qIsW8EZtQs1GWrXBLCZZPj4","name":"Doge #0","onChain":true},"1":{"link":"https://arweave.net/6WCUunHc92OJ2Os0fU7JY0g-hmmwx7TrU0UmFkgT5tI","name":"Doge #1","onChain":true},"2":{"link":"https://arweave.net/JxK4npNAkrUqHY1waJFEcJ2r4LZzpadwtrBG2HHht_c","name":"Doge #2","onChain":true},"3":{"link":"https://arweave.net/NvHblwXWURbW9Ef4pzxn3Shyv3wKVQ00fTsZP3QbdpY","name":"Doge #3","onChain":true},"4":{"link":"https://arweave.net/0eI4KmWMapk2qTWcB5LbuveTaKe4iAEPVO5zuma4Oaw","name":"Doge #4","onChain":true},"5":{"link":"https://arweave.net/eyHX_NIPZbcdeeFHpIlyfrVtgI1tOhrHlwaRjlEpY_I","name":"Doge #5","onChain":true}},"env":"devnet","cacheName":"temp","authority":"CoGobJp3DkjPYT35xKBLiJNDbNoBWjNjpWD6Do1ftfnE"}
+candy machine pubkey: C5oVEpEBu2SZztpuj8M7oZV4dmqrXejrjLryyWUuL3YA
+timestamp: 978336000
+
+
+trophy usual veteran indoor junk ring now hidden sauce poet shift crash

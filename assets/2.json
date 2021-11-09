@@ -1,0 +1,50 @@
+{
+    "name": "Doge #2",
+    "symbol": "",
+    "description": "a cute doge",
+    "seller_fee_basis_points": 500,
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "amount",
+            "value": 2
+        },
+        {
+            "trait_type": "skin",
+            "value": "basic"
+        },
+        {
+            "trait_type": "mood",
+            "value": "basic"
+        },
+        {
+            "trait_type": "attribute",
+            "value": "Eye scar"
+        },
+        {
+            "trait_type": "attribute",
+            "value": "Pirate hat"
+        }
+    ],
+    "collection": {
+        "name": "Collection Name",
+        "family": ""
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 1,
+        "creators": [
+            {
+                "address": "CoGobJp3DkjPYT35xKBLiJNDbNoBWjNjpWD6Do1ftfnE",
+                "share": 100
+            }
+        ]
+    },
+    "image": "2.png"
+}

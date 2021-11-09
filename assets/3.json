@@ -1,0 +1,54 @@
+{
+    "name": "Doge #3",
+    "symbol": "",
+    "description": "a cute doge",
+    "seller_fee_basis_points": 500,
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "amount",
+            "value": 3
+        },
+        {
+            "trait_type": "skin",
+            "value": "basic"
+        },
+        {
+            "trait_type": "mood",
+            "value": "basic"
+        },
+        {
+            "trait_type": "attribute",
+            "value": "Backpack"
+        },
+        {
+            "trait_type": "attribute",
+            "value": "Thief band"
+        },
+        {
+            "trait_type": "attribute",
+            "value": "Sacha cap"
+        }
+    ],
+    "collection": {
+        "name": "Collection Name",
+        "family": ""
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 1,
+        "creators": [
+            {
+                "address": "CoGobJp3DkjPYT35xKBLiJNDbNoBWjNjpWD6Do1ftfnE",
+                "share": 100
+            }
+        ]
+    },
+    "image": "3.png"
+}
